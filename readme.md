@@ -1,6 +1,6 @@
 # read-me
 
-colophon
+# colophon
 
 dzzz99
 Karina Zavidova
@@ -12,3 +12,4 @@ Zeno Nan
 Simona Koutná
 
 stimuleringsfonds digital culture grant scheme, creative industries fund NL
+
