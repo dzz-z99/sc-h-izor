@@ -10,4 +10,4 @@ Samuli Saarinen
 Zeno Nan
 Simona Koutná
 
-Stimuleringsfonds Digital Culture grant scheme, creative industries fund NL
+stimuleringsfonds digital culture grant scheme, creative industries fund NL
