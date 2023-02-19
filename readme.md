@@ -1,4 +1,4 @@
-# sc-h-izor read-me
+# read-me
 
 colophon
 
