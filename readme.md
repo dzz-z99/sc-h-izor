@@ -1,6 +1,6 @@
 # read-me
 
-# colophon
+colophon
 
 dzzz99
 Karina Zavidova
