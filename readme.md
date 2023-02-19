@@ -7,7 +7,7 @@ Karina Zavidova
 Theetat Thunkijjanukij
 Callum Dean
 Alex Olloman
-Samuli Saarinen
+Samuli Otto-Henrik Saarinen
 Zeno Nan
 Simona Koutná
 
