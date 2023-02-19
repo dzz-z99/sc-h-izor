@@ -3,7 +3,7 @@ colophon
 
 dzzz99
 Karina Zavidova
-Theetat Th
+Theetat Thunkijjanukij
 Callum Dean
 Alex Olloman
 Samuli Saarinen
